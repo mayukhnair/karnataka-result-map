@@ -6,4 +6,4 @@ Election result data was provided from [Lok Dhaba](https://lokdhaba.ashoka.edu.i
 
 This code sample is an R script that uses RGDAL (R Geospatial Data Abstraction Library) and Leaflet to build a JavaScript map for election results in Karnataka, India. Each constituency is color coded by a color assigned to the winning candidate's political party using RColorBrewer.
 
-!(https://github.com/mayukhnair/karnataka-result-map/raw/master/mapimage.png)
+![](https://github.com/mayukhnair/karnataka-result-map/raw/master/mapimage.png)
